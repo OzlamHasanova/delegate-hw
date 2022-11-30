@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\FindAll\bin\Debug\net6.0\FindAll.exe
+C:\Users\User\source\repos\FindAll\bin\Debug\net6.0\FindAll.deps.json
+C:\Users\User\source\repos\FindAll\bin\Debug\net6.0\FindAll.runtimeconfig.json
+C:\Users\User\source\repos\FindAll\bin\Debug\net6.0\FindAll.dll
+C:\Users\User\source\repos\FindAll\bin\Debug\net6.0\FindAll.pdb
+C:\Users\User\source\repos\FindAll\obj\Debug\net6.0\FindAll.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FindAll\obj\Debug\net6.0\FindAll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FindAll\obj\Debug\net6.0\FindAll.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FindAll\obj\Debug\net6.0\FindAll.AssemblyInfo.cs
+C:\Users\User\source\repos\FindAll\obj\Debug\net6.0\FindAll.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FindAll\obj\Debug\net6.0\FindAll.dll
+C:\Users\User\source\repos\FindAll\obj\Debug\net6.0\refint\FindAll.dll
+C:\Users\User\source\repos\FindAll\obj\Debug\net6.0\FindAll.pdb
+C:\Users\User\source\repos\FindAll\obj\Debug\net6.0\FindAll.genruntimeconfig.cache
+C:\Users\User\source\repos\FindAll\obj\Debug\net6.0\ref\FindAll.dll
